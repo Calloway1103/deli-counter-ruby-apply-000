@@ -1,7 +1,7 @@
 katz_deli = []
 
-def line_method(numinline)
-  line_method_array = []
+def line(numinline)
+  line= []
   if numinline. length == 0
     puts "The line is currently empty."
   else
@@ -26,14 +26,14 @@ def now_serving(nextinline)
   end
 end
 
-line_method(katz_deli)
-take_a_number(katz_deli, "John")
-take_a_number(katz_deli, "Tim")
-take_a_number(katz_deli, "Greg")
-line_method(katz_deli)
-now_serving(katz_deli)
+# line_method(katz_deli)
+# take_a_number(katz_deli, "John")
+# take_a_number(katz_deli, "Tim")
+# take_a_number(katz_deli, "Greg")
+# line_method(katz_deli)
+# now_serving(katz_deli)
 
-take_a_number(katz_deli, "Jill")
+# take_a_number(katz_deli, "Jill")
 
 
   
